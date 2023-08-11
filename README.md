@@ -30,7 +30,7 @@ level 5 being where the vehicle is fully autonomous.
 
 ## Self driving car architecture
 
-![](https://github.com/bhavikmk/self-driving-car-ros/blob/main/assets/ros-architecture-car.png)
+![](https://github.com/amanavvk/CarOS/blob/main/assets/ros-architecture-car.png)
 
 
 ## **Sensors**
